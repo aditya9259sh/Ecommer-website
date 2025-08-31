@@ -1,0 +1,602 @@
+{
+  message: '🚀 Server running on port 5000 in development mode',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:06:59'
+}
+{
+  message: '📱 Frontend URL: http://localhost:3000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:06:59'
+}
+{
+  message: '🔗 API URL: http://localhost:5000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:06:59'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'MongoDB connection failed:',
+  timestamp: '2025-08-31 14:06:59'
+}
+{
+  message: '⚠️  Server will continue without database connection. Some features may not work.',
+  level: 'warn',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:06:59'
+}
+{
+  message: 'SIGINT received, shutting down gracefully',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:07:53'
+}
+{
+  message: '🚀 Server running on port 5000 in development mode',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:07:59'
+}
+{
+  message: '📱 Frontend URL: http://localhost:3000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:07:59'
+}
+{
+  message: '🔗 API URL: http://localhost:5000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:07:59'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'MongoDB connection failed:',
+  timestamp: '2025-08-31 14:07:59'
+}
+{
+  message: '⚠️  Server will continue without database connection. Some features may not work.',
+  level: 'warn',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:07:59'
+}
+{
+  message: 'SIGINT received, shutting down gracefully',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:08:05'
+}
+{
+  message: '🚀 Server running on port 5000 in development mode',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:12:00'
+}
+{
+  message: '📱 Frontend URL: http://localhost:3000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:12:00'
+}
+{
+  message: '🔗 API URL: http://localhost:5000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:12:00'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'MongoDB connection failed:',
+  timestamp: '2025-08-31 14:12:00'
+}
+{
+  message: '⚠️  Server will continue without database connection. Some features may not work.',
+  level: 'warn',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:12:00'
+}
+{
+  message: 'SIGINT received, shutting down gracefully',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:12:10'
+}
+{
+  message: '🚀 Server running on port 5000 in development mode',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:15:20'
+}
+{
+  message: '📱 Frontend URL: http://localhost:3000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:15:20'
+}
+{
+  message: '🔗 API URL: http://localhost:5000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:15:20'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'MongoDB connection failed:',
+  timestamp: '2025-08-31 14:15:20'
+}
+{
+  message: '⚠️  Server will continue without database connection. Some features may not work.',
+  level: 'warn',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:15:20'
+}
+{
+  message: '🚀 Server running on port 5000 in development mode',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:16:05'
+}
+{
+  message: '📱 Frontend URL: http://localhost:3000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:16:05'
+}
+{
+  message: '🔗 API URL: http://localhost:5000',
+  level: 'info',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:16:05'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'MongoDB connection failed:',
+  timestamp: '2025-08-31 14:16:05'
+}
+{
+  message: '⚠️  Server will continue without database connection. Some features may not work.',
+  level: 'warn',
+  service: 'ecommerce-api',
+  timestamp: '2025-08-31 14:16:05'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:29:29'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:29:29'
+}
+{
+  service: 'ecommerce-api',
+  stringValue: '"1"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '1',
+  path: 'category',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\bson\lib\bson.cjs:2538:23)
+      at castObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schema\objectId.js:249:12)
+      at SchemaType.applySetters (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1258:12)
+      at SchemaType.castForQuery (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1694:17)
+      at cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast.js:390:32)
+      at Query.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:5060:12)
+      at Query._castConditions (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2374:10)
+      at model.Query._find (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2401:8)
+      at model.Query.exec (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:4627:80),
+  valueType: 'string',
+  level: 'error',
+  message: 'Error getting products: Cast to ObjectId failed for value "1" (type string) at path "category" for model "Product"',
+  stack: 'CastError: Cast to ObjectId failed for value "1" (type string) at path "category" for model "Product"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1694:17)\n' +
+    '    at cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:5060:12)\n' +
+    '    at Query._castConditions (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2374:10)\n' +
+    '    at model.Query._find (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2401:8)\n' +
+    '    at model.Query.exec (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:4627:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async getProducts (C:\\Users\\hp\\Codes\\e-commer website\\backend\\src\\controllers\\productController.js:60:22)',
+  timestamp: '2025-08-31 14:29:33'
+}
+{
+  service: 'ecommerce-api',
+  stringValue: '"1"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '1',
+  path: 'category',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\bson\lib\bson.cjs:2538:23)
+      at castObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schema\objectId.js:249:12)
+      at SchemaType.applySetters (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1258:12)
+      at SchemaType.castForQuery (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1694:17)
+      at cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast.js:390:32)
+      at Query.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:5060:12)
+      at Query._castConditions (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2374:10)
+      at model.Query._find (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2401:8)
+      at model.Query.exec (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:4627:80),
+  valueType: 'string',
+  level: 'error',
+  message: 'Error getting products: Cast to ObjectId failed for value "1" (type string) at path "category" for model "Product"',
+  stack: 'CastError: Cast to ObjectId failed for value "1" (type string) at path "category" for model "Product"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1694:17)\n' +
+    '    at cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:5060:12)\n' +
+    '    at Query._castConditions (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2374:10)\n' +
+    '    at model.Query._find (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2401:8)\n' +
+    '    at model.Query.exec (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:4627:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async getProducts (C:\\Users\\hp\\Codes\\e-commer website\\backend\\src\\controllers\\productController.js:60:22)',
+  timestamp: '2025-08-31 14:29:33'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:29:39'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:29:39'
+}
+{
+  service: 'ecommerce-api',
+  stringValue: '"1"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '1',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\bson\lib\bson.cjs:2538:23)
+      at castObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schema\objectId.js:249:12)
+      at SchemaType.applySetters (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1258:12)
+      at SchemaType.castForQuery (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1694:17)
+      at cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast.js:390:32)
+      at Query.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:5060:12)
+      at Query._castConditions (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2374:10)
+      at model.Query._findOne (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2697:8)
+      at model.Query.exec (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:4627:80),
+  valueType: 'string',
+  level: 'error',
+  message: 'Error getting product by ID: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Product"',
+  stack: 'CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Product"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1694:17)\n' +
+    '    at cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:5060:12)\n' +
+    '    at Query._castConditions (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2374:10)\n' +
+    '    at model.Query._findOne (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2697:8)\n' +
+    '    at model.Query.exec (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:4627:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async getProductById (C:\\Users\\hp\\Codes\\e-commer website\\backend\\src\\controllers\\productController.js:92:21)',
+  timestamp: '2025-08-31 14:29:43'
+}
+{
+  service: 'ecommerce-api',
+  stringValue: '"1"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '1',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\bson\lib\bson.cjs:2538:23)
+      at castObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schema\objectId.js:249:12)
+      at SchemaType.applySetters (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1258:12)
+      at SchemaType.castForQuery (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1694:17)
+      at cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast.js:390:32)
+      at Query.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:5060:12)
+      at Query._castConditions (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2374:10)
+      at model.Query._findOne (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2697:8)
+      at model.Query.exec (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:4627:80),
+  valueType: 'string',
+  level: 'error',
+  message: 'Error getting product by ID: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Product"',
+  stack: 'CastError: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Product"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1694:17)\n' +
+    '    at cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:5060:12)\n' +
+    '    at Query._castConditions (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2374:10)\n' +
+    '    at model.Query._findOne (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2697:8)\n' +
+    '    at model.Query.exec (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:4627:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async getProductById (C:\\Users\\hp\\Codes\\e-commer website\\backend\\src\\controllers\\productController.js:92:21)',
+  timestamp: '2025-08-31 14:29:43'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:29:49'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:29:59'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:30:08'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:30:09'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:30:18'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:30:19'
+}
+{
+  service: 'ecommerce-api',
+  stringValue: '"2"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '2',
+  path: 'category',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\bson\lib\bson.cjs:2538:23)
+      at castObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schema\objectId.js:249:12)
+      at SchemaType.applySetters (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1258:12)
+      at SchemaType.castForQuery (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1694:17)
+      at cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast.js:390:32)
+      at Query.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:5060:12)
+      at Query._castConditions (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2374:10)
+      at model.Query._find (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2401:8)
+      at model.Query.exec (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:4627:80),
+  valueType: 'string',
+  level: 'error',
+  message: 'Error getting products: Cast to ObjectId failed for value "2" (type string) at path "category" for model "Product"',
+  stack: 'CastError: Cast to ObjectId failed for value "2" (type string) at path "category" for model "Product"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1694:17)\n' +
+    '    at cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:5060:12)\n' +
+    '    at Query._castConditions (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2374:10)\n' +
+    '    at model.Query._find (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2401:8)\n' +
+    '    at model.Query.exec (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:4627:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async getProducts (C:\\Users\\hp\\Codes\\e-commer website\\backend\\src\\controllers\\productController.js:60:22)',
+  timestamp: '2025-08-31 14:30:21'
+}
+{
+  service: 'ecommerce-api',
+  stringValue: '"2"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '2',
+  path: 'category',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\bson\lib\bson.cjs:2538:23)
+      at castObjectId (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schema\objectId.js:249:12)
+      at SchemaType.applySetters (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1258:12)
+      at SchemaType.castForQuery (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\schemaType.js:1694:17)
+      at cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\cast.js:390:32)
+      at Query.cast (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:5060:12)
+      at Query._castConditions (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2374:10)
+      at model.Query._find (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:2401:8)
+      at model.Query.exec (C:\Users\hp\Codes\e-commer website\backend\node_modules\mongoose\lib\query.js:4627:80),
+  valueType: 'string',
+  level: 'error',
+  message: 'Error getting products: Cast to ObjectId failed for value "2" (type string) at path "category" for model "Product"',
+  stack: 'CastError: Cast to ObjectId failed for value "2" (type string) at path "category" for model "Product"\n' +
+    '    at SchemaObjectId.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schema\\objectId.js:251:11)\n' +
+    '    at SchemaType.applySetters (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1258:12)\n' +
+    '    at SchemaType.castForQuery (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\schemaType.js:1694:17)\n' +
+    '    at cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\cast.js:390:32)\n' +
+    '    at Query.cast (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:5060:12)\n' +
+    '    at Query._castConditions (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2374:10)\n' +
+    '    at model.Query._find (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:2401:8)\n' +
+    '    at model.Query.exec (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\query.js:4627:80)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n' +
+    '    at async getProducts (C:\\Users\\hp\\Codes\\e-commer website\\backend\\src\\controllers\\productController.js:60:22)',
+  timestamp: '2025-08-31 14:30:21'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:30:31'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:17'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:17'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:27'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:27'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:37'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:37'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:43'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:43'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:47'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:47'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting products: Operation `products.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `products.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:52'
+}
+{
+  service: 'ecommerce-api',
+  level: 'error',
+  message: 'Error getting categories: Operation `categories.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `categories.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (C:\\Users\\hp\\Codes\\e-commer website\\backend\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n' +
+    '    at listOnTimeout (node:internal/timers:588:17)\n' +
+    '    at process.processTimers (node:internal/timers:523:7)',
+  timestamp: '2025-08-31 14:34:52'
+}
